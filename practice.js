@@ -14,7 +14,12 @@
   Then alert your name using dot notation.
 */
 
-//Code here
+var objectMe (){
+  name: 'Ryan',
+  age: 26,
+}
+
+objectMe.name;
 
 ////////// PROBLEM 2 //////////
 
